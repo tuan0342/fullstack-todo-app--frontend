@@ -7,5 +7,5 @@ Using ReactJS
 ### Deploy:
 - Using [netlify.com](https://www.netlify.com/):
 
-### Website:
+### Website Demo:
 - https://master--cool-toffee-cbeb84.netlify.app/
